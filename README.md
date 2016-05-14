@@ -6,6 +6,7 @@ Acctually, the data structure is used in this library is char array.
 I call it string for short
 
 It includes:
+
 	int strConcat(char*, int, ...): concat strings together. It can have variable argument list
 		First argument: the result string
 		Second argument: the number of string to be concatenated
