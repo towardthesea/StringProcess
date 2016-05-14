@@ -1,4 +1,4 @@
-#1 StringProcess library
+## StringProcess library
 
 This library contains some common functions used to process string
 
